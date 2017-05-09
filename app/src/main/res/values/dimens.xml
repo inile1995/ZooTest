@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="my_image">120dp</dimen>
+    <dimen name="my_image2">170dp</dimen>
+    <dimen name="my_margin">15dp</dimen>
+    <dimen name="my_iconvolumn">40dp</dimen>
+</resources>
